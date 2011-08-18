@@ -29,7 +29,7 @@ module Translit
           result += chr
         end
     end
-    result.gsub(/-+/)
+    result.gsub(/-+/, '-')
   end                 
   
 end
