@@ -1,0 +1,4 @@
+Example:
+
+    Translit.to_url('проверка? Да, проверка в 11:37')
+    #=> "proverka-da-proverka-v-11-37"
